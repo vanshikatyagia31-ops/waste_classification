@@ -1,0 +1,8 @@
+waste_segregation/
+├── app.py              # Streamlit app (run this)
+├── train_model.py      # Script to train your classifier
+├── requirements.txt
+├── dataset/
+│   ├── wet/             # put wet/organic waste images here
+│   ├── dry/              # put dry waste images here
+│   └── recyclable/       # put recyclable waste images here
